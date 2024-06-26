@@ -1,0 +1,80 @@
+#heading{
+    text-align: center;
+}
+#main{
+    margin:30px;
+    border: 1.5px,solid,black;
+    padding: 10px;
+}
+#heading{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;}
+#main2{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+#main3{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+
+#education{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+#skills{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+#project{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+#research{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+
+}
+#achive{
+    border:1px,solid,rgb(28, 27, 27);
+    padding:5px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+html{
+    font-size: medium;
+}
+h2{font-size: 1.35rem;}
